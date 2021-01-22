@@ -130,6 +130,10 @@ blockquote {
     line-height: 1.5em;
 }
 
+footer {
+    margin-top: 50px;
+}
+
 @media only screen and (max-width: 670px){
     .firsthalf {
         flex-direction: column;
